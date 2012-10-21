@@ -12,4 +12,9 @@ class SimpleUnitTest {
 	void anotherTest() {
 		assert true
 	}
+	
+	@Test
+	void triggerTest() {
+		assert true
+	}
 }
