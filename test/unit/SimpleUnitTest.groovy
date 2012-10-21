@@ -4,7 +4,12 @@ import org.junit.Test
 class SimpleUnitTest {
 
 	@Test
-	void testAlwaysTrye() {
+	void testAlwaysTrue() {
+		assert true
+	}
+	
+	@Test
+	void anotherTest() {
 		assert true
 	}
 }
