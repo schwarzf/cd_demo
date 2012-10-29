@@ -2,6 +2,7 @@ package cd_demo
 
 class Issue {
 
+	// some name
 	String name
 	String description
 	
