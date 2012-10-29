@@ -5,7 +5,7 @@ class SimpleUnitTest {
 
 	@Test
 	void testAlwaysTrue() {
-		assert false
+		assert true
 	}
 	
 	@Test
